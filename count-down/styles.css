@@ -1,0 +1,27 @@
+body{
+    
+    
+}
+.contanier{
+    width: 60%; 
+    margin: 100px 20%;
+    padding: 20px;
+
+}
+.contanier span{
+    font-size: 1.2rem;
+    font-weight: bold;
+    align-content: center;
+}
+.card{
+    width: fit-content;
+    min-width: 25px;
+    display: inline-block;
+    margin:5px;
+    height: 30px;
+    padding: 5px;
+    background-color: #eed;
+    border-radius: 10px;
+    box-shadow: 2px 4px 2px 2px gray;
+
+}
